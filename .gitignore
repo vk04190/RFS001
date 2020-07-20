@@ -1,0 +1,4 @@
+# My Custom ignore
+**/*~
+**/*.ini
+**/*.xls*
